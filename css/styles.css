@@ -6,6 +6,7 @@ body {
     font-style: normal;
 }
 
+a,
 li {
     list-style-type: none;
     text-decoration: none;
@@ -19,7 +20,7 @@ li {
     color: #2e2f42;
 }
 
-.first-logo link {
+.logo {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
