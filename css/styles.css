@@ -1,5 +1,14 @@
+:root {
+    --primary-text-color: #434455;
+    --title-text-color: #2e2f42;
+    --accent-color: #4d5ae5;
+    --primary-white-color: #ffffff;
+}
 body {
-    font-family: 'Montserrat', sans-serif;
+    background: #fff;
+    color: var(--title-text-color);
+
+    font-family: "Roboto", sans-serif;
     margin: 0;
 }
 
