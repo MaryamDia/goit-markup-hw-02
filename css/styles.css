@@ -5,6 +5,42 @@ body {
     font-style: normal;
 }
 
+.header {
+}
+.conteiner {
+}
+.header-navigation {
+}
+.header-logo {
+}
+.logo {
+}
+.second-logo {
+}
+.header-list {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1,5;
+/* identical to box height, or 150% */
+
+letter-spacing: 0.02em;
+
+/* NAVY BLUE */
+
+color: #2E2F42;
+
+}
+.header-item {
+}
+.list {
+}
+.header-mail {
+}
+.header-tel {
+}
+
 a,
 li {
     list-style-type: none;
@@ -38,3 +74,4 @@ li {
     text-transform: uppercase;
     text-decoration: none;
 }
+
