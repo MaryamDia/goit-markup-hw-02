@@ -14,8 +14,39 @@ body {
 .header-logo {
 }
 .logo {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+/* IRIS */
+
+color: #4D5AE5;
+
 }
 .second-logo {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height, or 117% */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+/* NAVY BLUE */
+
+color: #2E2F42;
 }
 .header-list {
 font-family: 'Roboto';
@@ -37,41 +68,31 @@ color: #2E2F42;
 .list {
 }
 .header-mail {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+letter-spacing: 0.02em;
+
+/* SLATE */
+
+color: #434455;
 }
 .header-tel {
-}
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
 
-a,
-li {
-    list-style-type: none;
-    text-decoration: none;
-}
-<!------------header------------> .logotype{
-    font-family: 'Raleway', sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #2e2f42;
-}
+letter-spacing: 0.02em;
 
-.logo {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 21px;
-    color: #4d5ae5;
-    text-transform: uppercase;
-    text-decoration: none;
-}
+/* SLATE */
 
-.second-logo {
-    font-family: 'Raleway', sans-serif;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 21px;
-    color: #2e2f42;
-    text-transform: uppercase;
-    text-decoration: none;
-}
+color: #434455;
 
+}
