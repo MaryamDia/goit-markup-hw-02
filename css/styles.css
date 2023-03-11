@@ -5,8 +5,11 @@ body {
     font-style: normal;
 }
 
-.list{
+.list {
     list-style: none;
+}
+.link {
+    text-decoration: none;
 }
 
 .header {
